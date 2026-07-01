@@ -17,4 +17,4 @@ you can trade the unwanted paintings for another variant (any painting you have 
 paintings have different rarities. some are way harder to find
 
 ### backport
-backporting paintings from the later versions
+backporting paintings from later versions
